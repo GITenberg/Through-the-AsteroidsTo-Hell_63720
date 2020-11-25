@@ -5,6 +5,9 @@ contributor:
     agent_name: Martin, C.
     gutenberg_agent_id: '52561'
     url: http://www.gutenberg.org/2009/agents/52561
+covers:
+- cover_type: archival
+  image_path: 63720-h/images/cover.jpg
 creator:
   author:
     agent_name: Yerxa, Leroy
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '35833'
     url: http://www.gutenberg.org/2009/agents/35833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63720#Through-the-AsteroidsTo-Hell
 gutenberg_issued: '2020-11-11'
 gutenberg_type: Text
 identifiers:
